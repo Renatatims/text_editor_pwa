@@ -4,6 +4,13 @@
   ## Description
   This is a full-stack application that meets the PWA criteria and functions both online and offline. Data is tored in the IndexedDB API.
 
+ ![Preview](assets/screenshots/Capture1.PNG)
+
+  ## Link to application:
+  Please follow the below link to application deployed with heroku:
+  
+  https://renata-jate-text-editor.herokuapp.com/
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -22,6 +29,7 @@
 
   ## Usage
   
+  User can create notes or code snippets online or offline.
 
   ## Features
 
