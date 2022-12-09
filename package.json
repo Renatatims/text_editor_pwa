@@ -1,7 +1,7 @@
 {
   "name": "text_editor_pwa",
   "version": "1.0.0",
-  "description": "",
+  "description": "text editor PWA -  user can create notes or code snippets online or offline",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run server\" ",
