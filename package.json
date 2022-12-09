@@ -4,7 +4,7 @@
   "description": "text editor PWA -  user can create notes or code snippets online or offline",
   "main": "server.js",
   "scripts": {
-    "start:dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run server\" ",
+    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\" ",
     "start": "npm run build && cd server && npm run server",
     "server": "cd server && nodemon server.js --ignore client",
     "build": "cd client && npm run build",
